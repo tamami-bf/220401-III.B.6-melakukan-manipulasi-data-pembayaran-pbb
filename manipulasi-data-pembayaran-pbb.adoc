@@ -1,6 +1,6 @@
 :doctype: article
 
-= Melakukan Manipulasi Untuk Rekonsiliasi Data Pembayaran PBB-P2 Tanggal 16 Maret 2022
+= Melakukan Manipulasi Untuk Rekonsiliasi Data Pembayaran PBB-P2 Tanggal 28 April 2022
 Priyanto Tamami <tamami.oka@gmail.com>
 Badan Pendapatan Daerah Kabupaten Brebes
 :reproducible:
